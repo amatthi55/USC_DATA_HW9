@@ -1,1 +1,2 @@
-# USC_DATA_HW9
+# USC Data Analytics HW 9
+# Hawaii Weather
